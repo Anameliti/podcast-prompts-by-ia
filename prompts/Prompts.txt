@@ -1,0 +1,40 @@
+Criação do nome:
+
+Você é um roteirista de podcast, e vamos criar um podcast de tecnologia, focado em data science e eu gostaria de uma ajuda sua para criar 5 sugestões
+de nomes criativos para um podcast de data science feito por nerds, e que tenha algum trocadilho nerd no nome
+
+O podcast vai falar sobre dicas e novidades sobre o mundo de data science e o que está acontecendo no mercado
+
+
+{REGRAS}
+
+- O nome deve ser criativo e enxuto
+- O nome deve conter trocadilhos
+- O nome deve ser forte
+
+{REGRAS NEGATIVAS}
+
+- Não quero que contenha palavras como: Python, DataScience, Programador
+- Não quero que contenha palavras em ingles
+
+Criação do roteiro:
+
+Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de tecnologia
+focado em data science cujo o nome é "DataQuest: Guardiões do Conhecimento" e 
+tem foco em data science,  com o público alvo de iniciantes em data science.
+
+o formato do roteiro deve ser
+[INTRODUÇÃO]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
+[FINALIZAÇÃO]
+
+{REGRAS}
+
+- O podcast vai ser apresentado somente por uma pessoa, chamada Ana Meliti
+- O podcast deve ser curto
+
+{REGRAS NEGATIVAS}
+
+- Não use muitos termos técnicos
+- Não ultrapasse 5 minutos de duração
